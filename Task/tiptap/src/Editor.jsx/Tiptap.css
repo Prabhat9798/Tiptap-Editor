@@ -1,0 +1,48 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+    .menu-bar {
+      margin :1rem;
+
+    }
+    .menu-bar button {
+      margin-right: 5px;
+    }
+    .editor {
+      border: 1px solid #ccc;
+      padding: 10px;
+      min-height: 50rem;
+      margin: 1rem;
+      background-color: #ccc;
+    }
+    .char-count {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #555;
+    }
+    button{
+        border: 2px solid black;
+    }
+    .menu-bar {
+        margin-bottom: 10px;
+      }
+      .menu-bar button {
+        margin-right: 5px;
+      }
+      .editor {
+        border: 1px solid #ccc;
+        padding: 10px;
+        min-height: 150px;
+      }
+      .char-count {
+        margin-top: 10px;
+        font-size: 14px;
+        color: #555;
+      }
